@@ -45,6 +45,9 @@
     <ClCompile Include="006_测试函数定义代码的位置.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="007_string类型介绍.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001_命名空间-project3.h">

@@ -48,6 +48,9 @@
     <ClCompile Include="007_string类型介绍.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="008_vector类型介绍.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001_命名空间-project3.h">

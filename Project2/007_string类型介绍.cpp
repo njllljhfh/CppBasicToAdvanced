@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main()
+int main007()
 {
     //C++从基础到进阶-视频-07
 

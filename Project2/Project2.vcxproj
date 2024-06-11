@@ -138,6 +138,7 @@
     <ClCompile Include="006_func.cpp" />
     <ClCompile Include="006_测试函数定义代码的位置.cpp" />
     <ClCompile Include="007_string类型介绍.cpp" />
+    <ClCompile Include="008_vector类型介绍.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001_命名空间-project3.h" />

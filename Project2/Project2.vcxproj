@@ -140,6 +140,8 @@
     <ClCompile Include="007_string类型介绍.cpp" />
     <ClCompile Include="008_vector类型介绍.cpp" />
     <ClCompile Include="009_迭代器精彩演绎，失效分析及弥补、实战.cpp" />
+    <ClCompile Include="010_类型转换-static_cast等.cpp" />
+    <ClCompile Include="c1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001_命名空间-project3.h" />

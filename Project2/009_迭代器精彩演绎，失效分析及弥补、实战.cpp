@@ -30,7 +30,7 @@ char* getinfo(vector<conf*>& conflist, const char* pitem)
     return nullptr;
 }
 
-int main()
+int main009()
 {
     //C++从基础到进阶-视频-09
     cout << "009_迭代器精彩演绎，失效分析及弥补、实战" << endl;

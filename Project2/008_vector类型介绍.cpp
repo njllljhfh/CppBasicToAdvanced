@@ -10,7 +10,7 @@ struct Student008
 
 int main008()
 {
-    //C++从基础到进阶-视频-00
+    //C++从基础到进阶-视频-08
 
     cout << "008_vector类型介绍" << endl;
     /*

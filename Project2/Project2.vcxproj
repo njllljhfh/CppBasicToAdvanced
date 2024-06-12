@@ -139,6 +139,7 @@
     <ClCompile Include="006_测试函数定义代码的位置.cpp" />
     <ClCompile Include="007_string类型介绍.cpp" />
     <ClCompile Include="008_vector类型介绍.cpp" />
+    <ClCompile Include="009_迭代器精彩演绎，失效分析及弥补、实战.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001_命名空间-project3.h" />

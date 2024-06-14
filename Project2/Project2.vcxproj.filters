@@ -60,6 +60,21 @@
     <ClCompile Include="010_类型转换-static_cast等.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="011_类_成员函数-对象拷贝-私有成员.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="011_Time.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="011_测试-多文件导入相同头文件.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="012_构造函数详解-explicit-构造函数初始化列表.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="012_Time.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001_命名空间-project3.h">
@@ -75,6 +90,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="006_head1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="011_Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="012_Time.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -4,7 +4,7 @@
 using namespace std;
 
 
-int main()
+int main010()
 {
     //C++从基础到进阶-视频-10
     cout << "010_类型转换-static_cast等" << endl;
